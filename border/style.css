@@ -1,0 +1,65 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p {
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    color: white;
+}
+
+.b1 {
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: red;
+}
+
+.b2 {
+    border-style: solid;
+    border-color: purple;
+    background-color: purple;
+}
+
+.b3 {
+    border-style: dotted;
+    border-color: green;
+    border-width: 2px;
+    background-color: green;
+}
+
+.b4 {
+    border-style: dotted;
+    border-color: darkblue;
+    border-width: 4px;
+    background-color: darkblue;
+}
+
+.b5 {
+    border-style: double;
+    border-color: darkgoldenrod;
+    border-width: 15px;
+    background-color: darkgoldenrod;
+}
+
+.b6 {
+    border-style: double;
+    border-color: darkred;
+    border-width: 5px;
+    background-color: darkred;
+}
+
+.b7 {
+    border-style: inset;
+    border-color: black;
+    border-width: 10px;
+    border-top-width: 3px; 
+    border-bottom-width: 7px;
+    border-left-width: 20px;
+    background-color: black;
+}
+
